@@ -1,7 +1,5 @@
 ---
-title: "natashaclemencon.github.io"
+title: "Natasha Clemencon"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a current Environmental Data Science Master student at UCSB’s BREN school of Environmental Science and Management. I have an additional Masters Degree in Political Science from San Diego State University, where I conducted research on forest carbon markets in Brazil. 

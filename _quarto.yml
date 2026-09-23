@@ -1,6 +1,5 @@
 project:
   type: website
-  output-dir: docs
 
 website:
   title: "natashaclemencon.github.io"
@@ -15,6 +14,7 @@ format:
     theme:
       - cosmo
       - brand
+    css: styles.css
     toc: true
 
 
