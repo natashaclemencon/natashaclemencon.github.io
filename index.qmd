@@ -1,5 +1,21 @@
 ---
 title: "Natasha Clemencon"
+toc: false
+image: images/IMG_4715.jpeg
+about: 
+    template: trestles
+    image-shape: round
+    image-width: 17em
+    links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/natasha-clemencon-charles-0b5669210/
+      target: _blank
+    - text: Github
+      href: https://github.com/natashaclemencon
+      target: _blank
+    - text: Email
+       href:mailto:natasha.clemencon@gmail.com
 ---
+    
 
 I am a current Environmental Data Science Master student at UCSB’s BREN school of Environmental Science and Management. I have an additional Masters Degree in Political Science from San Diego State University, where I conducted research on forest carbon markets in Brazil. 
